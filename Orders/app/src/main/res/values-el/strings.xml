@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orders</string>
+    <string name="name">\'Ονομα</string>
+    <string name="extra_cheese_0_50">Εξτρα τυρί (0.50)</string>
+    <string name="bacon_0_70">Μπέικον (0.70)</string>
+    <string name="tomatos_0_30">Ντομάτα (0.30)</string>
+    <string name="peppers_0_40">Πιπεριές (0.40)</string>
+    <string name="pepperoni_0_60">Πεπερόνι (0.60)</string>
+    <string name="order">ΠΑΡΑΓΓΕΛΙΑ</string>
+    <string name="e_mail">e-mail</string>
+</resources>
