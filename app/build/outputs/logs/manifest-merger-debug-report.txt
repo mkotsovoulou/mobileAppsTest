@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:16:1-34:12
+INJECTED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:16:1-34:12
+INJECTED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:16:1-34:12
+INJECTED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:16:1-34:12
+MERGED from [com.android.support:design:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/a2ce6b226b4df2c6c201efd74de575be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/426bd578f5178f0460aa2eedc8cb2b5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/dc89f8237ad3e2a96418d06c5a122cd3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/6c54df90f53a9f82b19582acf88dddee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/2850be79a2c4399aff1263ae882f9104/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/da1aebf8248130ac5e0e7b312656235f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/ea556422a3eba1102a53109e52afd94c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/ddb6df572eacad5ac0ace4b2393e22d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/b4ba8aa5b754a68804587adb68ddb77a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/3f687f5a52a84a5094c9008fa60534f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/transition-27.0.0.aar/a54cd8c4051e202b2820ebfcfce4607f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/bc7c579ffb2f2406369c27351543161d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/8fe9d6bca70256c3342cd3044e129761/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:16:1-34:12
+INJECTED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:16:1-34:12
+INJECTED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:16:1-34:12
+	package
+		ADDED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:17:5-40
+		INJECTED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:16:1-34:12
+		INJECTED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:16:1-34:12
+		INJECTED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:16:11-69
+application
+ADDED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:19:5-32:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/8fe9d6bca70256c3342cd3044e129761/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/8fe9d6bca70256c3342cd3044e129761/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:24:9-40
+activity#com.example.android.miwok.MainActivity
+ADDED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:25:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/a2ce6b226b4df2c6c201efd74de575be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/a2ce6b226b4df2c6c201efd74de575be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/426bd578f5178f0460aa2eedc8cb2b5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/426bd578f5178f0460aa2eedc8cb2b5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/dc89f8237ad3e2a96418d06c5a122cd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/dc89f8237ad3e2a96418d06c5a122cd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/6c54df90f53a9f82b19582acf88dddee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/6c54df90f53a9f82b19582acf88dddee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/2850be79a2c4399aff1263ae882f9104/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/2850be79a2c4399aff1263ae882f9104/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/da1aebf8248130ac5e0e7b312656235f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/da1aebf8248130ac5e0e7b312656235f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/ea556422a3eba1102a53109e52afd94c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/ea556422a3eba1102a53109e52afd94c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/ddb6df572eacad5ac0ace4b2393e22d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/ddb6df572eacad5ac0ace4b2393e22d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/b4ba8aa5b754a68804587adb68ddb77a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/b4ba8aa5b754a68804587adb68ddb77a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/3f687f5a52a84a5094c9008fa60534f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/3f687f5a52a84a5094c9008fa60534f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/transition-27.0.0.aar/a54cd8c4051e202b2820ebfcfce4607f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/transition-27.0.0.aar/a54cd8c4051e202b2820ebfcfce4607f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/bc7c579ffb2f2406369c27351543161d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/bc7c579ffb2f2406369c27351543161d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/8fe9d6bca70256c3342cd3044e129761/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/8fe9d6bca70256c3342cd3044e129761/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/src/main/AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/8fe9d6bca70256c3342cd3044e129761/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/8fe9d6bca70256c3342cd3044e129761/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/mkotsovoulou/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/8fe9d6bca70256c3342cd3044e129761/AndroidManifest.xml:26:13-58

@@ -1,0 +1,4 @@
+#Mon Feb 11 23:05:25 EET 2019
+base.0=/Users/mkotsovoulou/Desktop/ud839_Miwok-Starter-code/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
